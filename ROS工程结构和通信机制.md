@@ -2,7 +2,7 @@
 
 ### ROS工程结构
 
-![Figure_2.1.1](https://github.com/SLiu2000/isrc-sliu/images/Figure_2.1.1.png)
+![Figure_2.1.1](https://github.com/SLiu2000/isrc-sliu/tree/main/images/Figure_2.1.1.png)
 
 - catkin工作空间
 
