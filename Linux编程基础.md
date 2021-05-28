@@ -4,13 +4,13 @@
 
 - UNIX系统分叉：
 
-  <img src="/Users/sissiliu/Desktop/figure_1_3.png" alt="figure_1_3"  />
-
+  ![figure_1_3](https://github.com/SLiu2000/isrc-sliu/blob/main/images/figure_1_3.png)
+  
 *ps -aux (BSD) & ps -ef (System V)?*
 
 - Linux发行版谱系：
 
-  ![figure_1_5](/Users/sissiliu/Desktop/figure_1_5.jpeg)
+  ![figure_1_5](https://github.com/SLiu2000/isrc-sliu/blob/main/images/figure_1_5.jpeg)
 
 - 文件与目录管理：
   - 绝对路径：路径的写法，由根目录`/`写起，例如：`/usr/share/doc`
@@ -61,7 +61,7 @@
     - `w`：save changes
     - `Esc`：quit last-line mode
 
-  - ![figure_3_1](/Users/sissiliu/Desktop/figure_3_1.jpg)
+  - ![figure_3_1](https://github.com/SLiu2000/isrc-sliu/blob/main/images/figure_3_1.jpg)
 
   - 各种插入模式
 
