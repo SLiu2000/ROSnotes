@@ -92,13 +92,13 @@
     include_directories( ${catkin_INCLUDE_DIRS})
     ```
 
-  - ![Figure_2.1.16](/Users/sissiliu/Desktop/Figure_2.1.16.png)
+  - ![Figure_2.1.16](https://github.com/SLiu2000/isrc-sliu/blob/main/images/Figure_2.1.16.png)
 
-  - ![Figure_2.1.17](/Users/sissiliu/Desktop/Figure_2.1.17.png)
+  - ![Figure_2.1.17](https://github.com/SLiu2000/isrc-sliu/blob/main/images/Figure_2.1.17.png)
 
-  - ![Figure_2.1.18](/Users/sissiliu/Desktop/Figure_2.1.18.png)
+  - ![Figure_2.1.18](https://github.com/SLiu2000/isrc-sliu/blob/main/images/Figure_2.1.18.png)
 
-  - ![Figure_2.1.20](/Users/sissiliu/Desktop/Figure_2.1.20.png)
+  - ![Figure_2.1.20](https://github.com/SLiu2000/isrc-sliu/blob/main/images/Figure_2.1.20.png)
 
   - 一个规范的package有以下结构
 
